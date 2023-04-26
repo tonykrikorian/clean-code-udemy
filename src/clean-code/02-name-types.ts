@@ -21,7 +21,7 @@
 
   // Listado de emails de los usuarios
   const emails = people.map((u) => u.email);
-  const emailUsers = people.map((u) => u.email);
+  const emailUsers = people.map((user) => user.email);
 
   // Variables booleanas de un video juego
   const jump = false;
