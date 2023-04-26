@@ -58,10 +58,10 @@
   }
 
   // obtiene libros desde un URL
-  function BooksUrl(u: string) {
+  function BooksUrl(url: string) {
     throw new Error("Function not implemented.");
   }
-  function getBooksService(u: string) {
+  function getBooksService(url: string) {
     throw new Error("Function not implemented.");
   }
 
